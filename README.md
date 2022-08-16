@@ -13,14 +13,14 @@ Users are also able to upvote/downvote and/or report the contributions. The stor
 ## Final Product 
 ### Landing Page
 ![](https://media.giphy.com/media/VPCL3RAAXL0xi1TONq/giphy.gif)
-
-
 ### Create A Story
-
+![](https://media.giphy.com/media/Bl3LXTIptWcgSzrTqA/giphy.gif)
 ### Adding A Contribution
-
+![](https://media.giphy.com/media/388hqa0f1OZbN3jXaY/giphy.gif)
+### Select A Contribution
+![](https://media.giphy.com/media/RKVtmQr5OV8DHyLJ5c/giphy.gif)
 ### Ending A Story
-
+![](https://media.giphy.com/media/DvPQrkCtsXB9254y5u/giphy.gif)
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference.
