@@ -32,11 +32,11 @@ Users are also able to upvote/downvote and/or report the contributions. The stor
 
 ## Dependencies
 
-"chalk": "^2.4.2",
-"cookie-session": "^2.0.0",
-"dotenv": "^2.0.0",
-"ejs": "^3.1.8",
-"express": "^4.17.1",
-"morgan": "^1.9.1",
-"pg": "^8.7.3",
-"sass": "^1.35.1"
+- "chalk": "^2.4.2",
+- "cookie-session": "^2.0.0",
+- "dotenv": "^2.0.0",
+- "ejs": "^3.1.8",
+- "express": "^4.17.1",
+- "morgan": "^1.9.1",
+- "pg": "^8.7.3",
+- "sass": "^1.35.1"
