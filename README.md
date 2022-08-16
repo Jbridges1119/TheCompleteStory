@@ -1,6 +1,6 @@
 # The Complete Story
 
-The Complete Story is a story telling website where a user posts the begginining of a story and other users are able to leave their contribution. 
+The Complete Story is a story telling website where a user posts the begginining of a story and other users are able to leave a contribution that can be added to the original story . 
 
 Users are also able to upvote/downvote and/or report the contributions. The story host then has the option to add the contribution which resets the contribution list. If the host decides to end the story with a contribution then the Story is ended and the host and contributors are mention in the story credits.
 
