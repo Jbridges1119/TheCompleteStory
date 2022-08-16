@@ -4,12 +4,6 @@ The Complete Story is a story telling website where a user posts the begginining
 
 Users are also able to upvote/downvote and/or report the contributions. The story host then has the option to add the contribution which resets the contribution list. If the host decides to end the story with a contribution then the Story is ended and the host and contributors are mention in the story credits.
 
-## Built With
-- Node.js
-- Express
-- EJS
-- Postgres
-- SASS
 ## Final Product 
 ### Landing Page
 ![](https://media.giphy.com/media/VPCL3RAAXL0xi1TONq/giphy.gif)
@@ -21,6 +15,14 @@ Users are also able to upvote/downvote and/or report the contributions. The stor
 ![](https://media.giphy.com/media/RKVtmQr5OV8DHyLJ5c/giphy.gif)
 ### Ending A Story
 ![](https://media.giphy.com/media/DvPQrkCtsXB9254y5u/giphy.gif)
+
+## Built With
+- Node.js
+- Express
+- EJS
+- Postgres
+- SASS
+
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference.
