@@ -6,15 +6,15 @@ Users are also able to upvote/downvote and/or report the contributions. The stor
 
 ## Final Product 
 ### Landing Page
-![](https://media.giphy.com/media/VPCL3RAAXL0xi1TONq/giphy.gif)
+![Landing Page](https://github.com/Jbridges1119/TheCompleteStory/blob/master/planning/gif/landingPage.gif?raw=true)
 ### Create A Story
-![](https://media.giphy.com/media/Bl3LXTIptWcgSzrTqA/giphy.gif)
+![](https://github.com/Jbridges1119/TheCompleteStory/blob/master/planning/gif/createStory.gif?raw=true)
 ### Adding A Contribution
-![](https://media.giphy.com/media/388hqa0f1OZbN3jXaY/giphy.gif)
+![](https://github.com/Jbridges1119/TheCompleteStory/blob/master/planning/gif/addContribution.gif?raw=true)
 ### Select A Contribution
-![](https://media.giphy.com/media/RKVtmQr5OV8DHyLJ5c/giphy.gif)
+![](https://github.com/Jbridges1119/TheCompleteStory/blob/master/planning/gif/continueContribution.gif?raw=true)
 ### Ending A Story
-![](https://media.giphy.com/media/DvPQrkCtsXB9254y5u/giphy.gif)
+![](https://github.com/Jbridges1119/TheCompleteStory/blob/master/planning/gif/endStory.gif?raw=true)
 
 ## Built With
 - Node.js
